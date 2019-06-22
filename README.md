@@ -5,4 +5,5 @@
 
 •	Functionalities implemented include scrolling, zooming, autocomplete, and route finding
 
-![Image description](bearmaps.png)
+
+![Bear-Maps Snapshot](bearmaps.png)

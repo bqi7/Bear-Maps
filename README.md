@@ -4,3 +4,5 @@
 •	Performed routing and graph traversals using quad trees and the A* algorithm to find suggested navigation
 
 •	Functionalities implemented include scrolling, zooming, autocomplete, and route finding
+
+![Image description](bearmaps.png)
